@@ -1,3 +1,10 @@
+/**
+ * <h1>Scanner</h1>
+ * Essa classe mostra a funcionalidade da classe Scanner (input ou entrada de dados).
+ * 
+ * @author  Janderson Mota
+ */
+
 package main.java.edu.janderson.tema.scanner;
 
 import java.util.Locale;
