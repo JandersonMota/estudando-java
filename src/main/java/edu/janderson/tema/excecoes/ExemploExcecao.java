@@ -1,4 +1,4 @@
-package main.java.edu.janderson.tema.excecoes;
+package tema.excecoes;
 
 import java.text.NumberFormat;
 import java.text.ParseException;

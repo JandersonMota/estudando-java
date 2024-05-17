@@ -1,4 +1,4 @@
-package main.java.edu.janderson.tema.excecoes;
+package tema.excecoes;
 
 public class FormatadorCep {
   public static void main(String[] args) {

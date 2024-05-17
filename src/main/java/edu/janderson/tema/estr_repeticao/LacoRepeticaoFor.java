@@ -1,4 +1,4 @@
-package main.java.edu.janderson.tema.estr_repeticao;
+package tema.estr_repeticao;
 
 class LacoRepeticaoFor {
   public static void main(String[] args) {

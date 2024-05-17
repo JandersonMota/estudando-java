@@ -1,4 +1,4 @@
-package main.java.edu.janderson.tema.pilha;
+package tema.pilha;
 
 public class PilhaDeExecucao {
   public static void main(String[] args) {

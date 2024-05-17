@@ -2,7 +2,7 @@
  * Alguns cenários com fluxo condicionais, repetições e excepcionais.
  */
 
-package main.java.edu.janderson.exercicio.candidatura;
+package exercicio.candidatura;
 
 import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;

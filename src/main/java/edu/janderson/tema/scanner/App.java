@@ -5,7 +5,7 @@
  * @author  Janderson Mota
  */
 
-package main.java.edu.janderson.tema.scanner;
+package tema.scanner;
 
 import java.util.Locale;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package main.java.edu.janderson.tema.estr_condicional.ternario;
+package tema.estr_condicional.ternario;
 
 public class OperadorTernario {
   public static void main(String[] args) {
