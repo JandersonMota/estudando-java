@@ -1,4 +1,4 @@
-package conta_banco;
+package desafio.ContaBanco;
 
 public class ContaTerminal {
   private String nome;

@@ -1,4 +1,4 @@
-package main.java.edu.projeto.desafio_controle_fluxo;
+package desafio.DesafioControleFluxo;
 
 import java.util.Scanner;
 
@@ -12,9 +12,12 @@ public class Contador {
 		System.out.println("Digite o segundo parâmetro");
 		int parametroDois = terminal.nextInt();
 		
+		try {
 			contar(parametroUm, parametroDois);
-		
-		
+		} catch (ParametrosInvalidosException e) {
+			System.out.println("O segundo parâmetro deve ser maior que o primeiro");
+		}
+			
 	}
 
 	static void contar(int parametroUm, int parametroDois ) throws ParametrosInvalidosException {
