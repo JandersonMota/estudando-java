@@ -1,4 +1,4 @@
-package tema.set.ordenacao;
+package tema.set.ordenacao.cadastro_produtos;
 
 public class App {
   public static void main(String[] args) {

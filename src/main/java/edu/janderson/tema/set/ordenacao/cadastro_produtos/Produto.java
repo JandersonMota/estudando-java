@@ -1,4 +1,4 @@
-package tema.set.ordenacao;
+package tema.set.ordenacao.cadastro_produtos;
 
 import java.util.Comparator;
 import java.util.Objects;
